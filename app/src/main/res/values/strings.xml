@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseConverter</string>
+    <string name="txt_input">Input:</string>
+    <string name="txt_output">Output:</string>
+    <string name="rbt_2to10">2 -> 10</string>
+    <string name="rbt_10to2">10 -> 2</string>
+    <string name="btn_text">Convert</string>
+</resources>
